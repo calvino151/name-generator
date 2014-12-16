@@ -1,0 +1,6 @@
+c:\users\calvin\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.exe.config
+c:\users\calvin\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
+c:\users\calvin\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
+c:\users\calvin\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.exe
+c:\users\calvin\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.pdb
+C:\Users\Calvin\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Release\ConsoleApplication2.csprojResolveAssemblyReference.cache
